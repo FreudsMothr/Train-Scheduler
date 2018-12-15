@@ -1,0 +1,11 @@
+.jumbotron {
+    text-align: center;
+    color: rgb(36,82,114);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgba(255, 0, 128, 0.055);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
